@@ -129,7 +129,7 @@
   border-left: var(--border-pacman) solid transparent;
 }
 
-/*Animactions*/
+/*Animations*/
 @keyframes pendulum-moviment__first {
   from {
     transform: rotate(45deg);
