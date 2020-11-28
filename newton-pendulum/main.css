@@ -160,17 +160,17 @@
 }
 
 .pendulum:first-child {
-  -webkit-animation: pendulum-moviment__first 2s alternate infinite ease-in-out;
-  animation: pendulum-moviment__first 2s alternate infinite ease-in-out;
+  -webkit-animation: pendulum-moviment__first 1s alternate infinite ease-in-out;
+  animation: pendulum-moviment__first 1s alternate infinite ease-in-out;
 }
 
 .pendulum:last-child {
-  -webkit-animation: pendulum-moviment__last 2s alternate-reverse infinite
+  -webkit-animation: pendulum-moviment__last 1s alternate-reverse infinite
     ease-in-out;
-  animation: pendulum-moviment__last 2s alternate-reverse infinite ease-in-out;
+  animation: pendulum-moviment__last 1s alternate-reverse infinite ease-in-out;
 }
 
 .head__eye::before {
-  -webkit-animation: ghost__eye 4s infinite ease-in-out;
-  animation: ghost__eye 4s infinite ease-in-out;
+  -webkit-animation: ghost__eye 2s infinite ease-in-out;
+  animation: ghost__eye 2s infinite ease-in-out;
 }
